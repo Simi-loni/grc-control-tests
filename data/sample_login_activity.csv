@@ -1,0 +1,7 @@
+email,role,status,last_login
+amara@example.com,admin,active,2026-11-20
+tunde@example.com,engineer,active,2026-11-18
+ngozi@example.com,engineer,active,2026-08-01
+david@example.com,support,active,2026-10-30
+chidi@example.com,admin,active,
+lara@example.com,finance,suspended,2026-03-02
