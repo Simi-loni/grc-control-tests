@@ -1,7 +1,0 @@
-email,role,status,mfa_enabled
-amara@example.com,admin,active,true
-tunde@example.com,engineer,active,true
-ngozi@example.com,engineer,active,false
-david@example.com,support,active,true
-chidi@example.com,admin,active,false
-lara@example.com,finance,suspended,false
