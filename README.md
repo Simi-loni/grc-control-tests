@@ -7,6 +7,12 @@ Small, readable control tests for SOC 2 and ISO/IEC 27001:2022, written to show 
 I work in GRC and I am learning to code. I built these tests with AI assistance (Claude) and worked through each script until I could explain it myself. I care more about whether a test proves what a control requires than about how advanced the code is, so each test states its control, its evidence, and its limits.
 
 All data in this repo is made-up sample data. No real company systems are used.
+## Portfolio
+
+These tests are one part of a larger GRC portfolio. Every project is fictional and uses invented data.
+
+- grc-risk-toolkit: a 5 x 5 risk method, a report script and a worked product-change assessment (https://github.com/Simi-loni/grc-risk-toolkit)
+- Enterprise risk register and KRI dashboard, internal audit and CAPA program, ISO 27001 compliance program, vendor security assessment, and a FedRAMP Moderate crosswalk are in my [Google Drive portfolio](https://drive.google.com/drive/folders/1J4H7y9-mTc4oFsQRK_wbOLpDfvlfq2n0)
 
 ## Tests
 
