@@ -1,0 +1,7 @@
+system,owner,last_review_date,reviewer,approved_by,removals_requested,removals_completed
+AWS Production,Tunde,2026-10-20,Amara,Tunde,4,4
+Google Workspace,Tunde,2026-10-05,Amara,Tunde,2,2
+Okta,Tunde,2026-07-15,Amara,Tunde,3,3
+Production Database,Tunde,2026-11-02,Amara,,1,1
+GitHub,David,2026-10-28,David,Tunde,5,3
+HR System,Ngozi,,,,,
